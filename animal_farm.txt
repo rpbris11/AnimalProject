@@ -1,0 +1,627 @@
+The aardvark is type Mammal
+It has hair. 
+It produces milk. 
+    Quote: Four legs good.
+
+The antelope is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The bass is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The bear is type Mammal
+It has hair. 
+It produces milk. 
+    Quote: Four legs good.
+
+The boar is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The buffalo is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The calf is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The carp is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The catfish is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The cavy is type Mammal
+It has hair. 
+It produces milk. 
+    Quote: Four legs good.
+
+The cheetah is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The chicken is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The chub is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The clam is type OtherInvertebrate
+It lays eggs. 
+    Quote: Legs??? I have no need!
+
+The crab is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+    Quote: Legs??? I have no need! Oh wait, I have 4!
+
+The crayfish is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+    Quote: Legs??? I have no need! Oh wait, I have 6!
+
+The crow is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The deer is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The dogfish is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The dolphin is type Mammal
+It produces milk. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: No legs sad.
+
+The dove is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The duck is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The elephant is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The flamingo is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The flea is type Bug
+It lays eggs. 
+I have 6 legs! 6 legs best!
+
+The frog is type Amphibian
+It lays eggs. 
+It swims. 
+    Quote: Four legs good.
+
+The treefrog is type Amphibian
+It lays eggs. 
+It swims. 
+It is venomous. 
+    Quote: Four legs good.
+
+The fruitbat is type Mammal
+It has hair. 
+It produces milk. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d.
+
+The giraffe is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The girl is type Mammal
+It has hair. 
+It produces milk. 
+    Quote: Two legs baa-d.
+
+The gnat is type Bug
+It lays eggs. 
+It flies. 
+I have 6 legs! 6 legs best!
+
+The goat is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The gorilla is type Mammal
+It has hair. 
+It produces milk. 
+    Quote: Two legs baa-d.
+
+The gull is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The haddock is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The hamster is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The hare is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The hawk is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The herring is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The honeybee is type Bug
+It has hair. 
+It lays eggs. 
+It flies. 
+It is venomous. 
+I have 6 legs! 6 legs best!
+
+The housefly is type Bug
+It has hair. 
+It lays eggs. 
+It flies. 
+I have 6 legs! 6 legs best!
+
+The kiwi is type Bird
+It has feathers. 
+It lays eggs. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The ladybird is type Bug
+It lays eggs. 
+It flies. 
+I have 6 legs! 6 legs best!
+
+The lark is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The leopard is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The lion is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The lobster is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+    Quote: Legs??? I have no need! Oh wait, I have 6!
+
+The lynx is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The mink is type Mammal
+It has hair. 
+It produces milk. 
+It swims. 
+It has a tail. 
+    Quote: Four legs good.
+
+The mole is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The mongoose is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The moth is type Bug
+It has hair. 
+It lays eggs. 
+It flies. 
+I have 6 legs! 6 legs best!
+
+The newt is type Amphibian
+It lays eggs. 
+It swims. 
+It has a tail. 
+    Quote: Four legs good. Has a tail.
+
+The octopus is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+    Quote: Legs??? I have no need! Oh wait, I have 8!
+
+The opossum is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The oryx is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The ostrich is type Bird
+It has feathers. 
+It lays eggs. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The parakeet is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The penguin is type Bird
+It has feathers. 
+It lays eggs. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The pheasant is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The pike is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The piranha is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The pitviper is type Reptile
+It lays eggs. 
+It is venomous. 
+It has a tail. 
+    Quote: No legs sad. Scaly legs.
+
+The platypus is type Mammal
+It has hair. 
+It lays eggs. 
+It produces milk. 
+It swims. 
+It is venomous. 
+It has a tail. 
+    Quote: Four legs good.
+
+The polecat is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The pony is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The porpoise is type Mammal
+It produces milk. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: No legs sad.
+
+The puma is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The pussycat is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The raccoon is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The reindeer is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The rhea is type Bird
+It has feathers. 
+It lays eggs. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The scorpion is type OtherInvertebrate
+It is venomous. 
+It has a tail. 
+    Quote: Legs??? I have no need! Oh wait, I have 8!
+
+The seahorse is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The seal is type Mammal
+It has hair. 
+It produces milk. 
+It swims. 
+It has fins. 
+    Quote: No legs sad.
+
+The sealion is type Mammal
+It has hair. 
+It produces milk. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Two legs baa-d.
+
+The seasnake is type Reptile
+It swims. 
+It is venomous. 
+It has a tail. 
+    Quote: No legs sad. Scaly legs.
+
+The seawasp is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+It is venomous. 
+    Quote: Legs??? I have no need!
+
+The skimmer is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The skua is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The slowworm is type Reptile
+It lays eggs. 
+It has a tail. 
+    Quote: No legs sad. Scaly legs.
+
+The slug is type OtherInvertebrate
+It lays eggs. 
+    Quote: Legs??? I have no need!
+
+The sole is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The sparrow is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The squirrel is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Two legs baa-d.
+
+The starfish is type OtherInvertebrate
+It lays eggs. 
+It swims. 
+    Quote: Legs??? I have no need! Oh wait, I have 5!
+
+The stingray is type Fish
+It lays eggs. 
+It swims. 
+It is venomous. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The swan is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It swims. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The termite is type Bug
+It lays eggs. 
+I have 6 legs! 6 legs best!
+
+The toad is type Amphibian
+It lays eggs. 
+It swims. 
+    Quote: Four legs good.
+
+The tortoise is type Reptile
+It lays eggs. 
+It has a tail. 
+    Quote: Four legs good. Scaly legs.
+
+The tuatara is type Reptile
+It lays eggs. 
+It has a tail. 
+    Quote: Four legs good. Scaly legs.
+
+The tuna is type Fish
+It lays eggs. 
+It swims. 
+It has fins. 
+It has a tail. 
+    Quote: Glug glug.
+
+The vampire is type Mammal
+It has hair. 
+It produces milk. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d.
+
+The vole is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The vulture is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
+The wallaby is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Two legs baa-d.
+
+The wasp is type Bug
+It has hair. 
+It lays eggs. 
+It flies. 
+It is venomous. 
+I have 6 legs! 6 legs best!
+
+The wolf is type Mammal
+It has hair. 
+It produces milk. 
+It has a tail. 
+    Quote: Four legs good.
+
+The worm is type OtherInvertebrate
+It lays eggs. 
+    Quote: Legs??? I have no need!
+
+The wren is type Bird
+It has feathers. 
+It lays eggs. 
+It flies. 
+It has a tail. 
+    Quote: Two legs baa-d. But have wings.
+
